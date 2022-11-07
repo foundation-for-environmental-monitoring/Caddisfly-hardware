@@ -1,3 +1,6 @@
+# Archived
+This project is now archived.
+
 hardware-files
 ==============
 
